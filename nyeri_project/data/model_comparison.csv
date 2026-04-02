@@ -1,0 +1,4 @@
+model,MAE,RMSE,MAPE,MAPE_interpretation,rank_by_MAPE,overall_rank
+Prophet,354655.0,453140.0,3.4764,Excellent,1,1
+SARIMA,758556.0,874894.0,7.6751,Good,2,2
+ARIMA,860920.0,1019583.0,8.2537,Good,3,3

@@ -1,0 +1,10 @@
+year,year_label,total_milk_production_litres,dairy_cattle_population,avg_production_per_cow_litres,context_note,yoy_production_growth_pct,yoy_cattle_growth_pct
+2016,2016/2017,102600000,169118,5,,,
+2017,2017/2018,93826201,171000,5,,-8.55,1.11
+2018,2018/2019,112934263,171288,5,,20.37,0.17
+2019,2019/2020,115617604,178753,6,,2.38,4.36
+2020,2020/2021,111727403,192483,6,Slight drop due to impacts of Covid-19,-3.36,7.68
+2021,2021/2022,114956225,193310,7,Increase due to adoption of technologies despite effects of climate change,2.89,0.43
+2022,2022/2023,115338802,188500,7,Slight drop in cattle population attributed to very dry weather 2022/2023,0.33,-2.49
+2023,2023/2024,116144542,189310,7,,0.7,0.43
+2024,2024/2025,121031160,190625,8,Attributed to adoption of TIMPs and relatively favourable weather,4.21,0.69
