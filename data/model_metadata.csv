@@ -1,7 +1,0 @@
-model,dataset,order,seasonal_order,n_train,n_test,notes
-ARIMA,Monthly Simulated,"(2, 1, 4)",N/A,86,22,"auto_arima, d=1, AIC selection"
-SARIMA,Monthly Simulated,"(0, 1, 0)","(1, 1, 0, 12)",86,22,"auto_arima, d=1, D=1, m=12, AIC selection"
-Prophet,Monthly Simulated,N/A (Bayesian),"yearly_seasonality=True, multiplicative",86,22,interval_width=0.95
-ARIMA,Annual Observed,"(0, 0, 1)",N/A,9,walk-forward,"n=9, wide CIs expected — demonstrates data scarcity"
-Prophet,Annual Observed,N/A (Bayesian),yearly_seasonality=False,9,walk-forward,"n=9, high uncertainty — demonstrates data scarcity"
-SARIMA,Annual Observed,NOT APPLICABLE,NOT APPLICABLE,N/A,N/A,Annual frequency has no sub-annual seasonal component

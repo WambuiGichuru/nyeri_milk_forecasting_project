@@ -38,8 +38,8 @@ Verify: open terminal and type `git --version`
 
 ### 2. Configure Git (one time only)
 ```bash
-git config --global user.name "Faith Gichuru"
-git config --global user.email "your@email.com"
+git config --global user.name 
+git config --global user.email 
 ```
 
 ### 3. Create GitHub Repository
