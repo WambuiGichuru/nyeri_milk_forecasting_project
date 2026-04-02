@@ -31,6 +31,8 @@ import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
 from plotly.subplots import make_subplots
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 #Page configuration
 st.set_page_config(
